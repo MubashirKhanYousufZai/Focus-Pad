@@ -9,17 +9,6 @@ This project is designed as a **single-file full-stack app**, making it easy to 
 
 > This is **Hackathon 2 Phase 2** project by **Sir Ameen Alam** (GIAIC) and developed by **Mubashir**.
 
----
-
-## 🎬 Demo
-
-![Focus Pad Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-*Screenshot / GIF showing the UI, adding, editing, completing, and deleting tasks.*
-
-🌐 **Try it live:** [Focus Pad on Streamlit Cloud](https://share.streamlit.io/yourusername/Focus-Pad/main/app.py)
-
----
-
 ## 🚀 Features
 
 - ➕ Add new tasks
