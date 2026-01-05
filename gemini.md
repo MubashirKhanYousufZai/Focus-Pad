@@ -1,4 +1,4 @@
-# 🤖 Gemini Context File – Todo App
+# 🤖 Gemini Context File – Focus Pad
 
 This document provides **context, architecture, and rules** for AI models (Gemini / GPT) working on this project.
 
@@ -123,13 +123,3 @@ AI responses should:
 
 ---
 
-## ✅ Goal
-
-The goal of this project is to be:
-- Simple
-- Deployable
-- Educational
-- Portfolio-ready
-
-End of context.
-```😎

@@ -1,7 +1,22 @@
-# 📝 Todo App (Streamlit + SQLAlchemy)
+# 📝 Focus Pad (Streamlit + SQLAlchemy)
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.26.1-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A **simple, clean, and productive Todo application** built with **Python**, **Streamlit**, and **SQLAlchemy**.  
-This project is designed as a **single-file full-stack app**, making it easy to run locally and deploy on Streamlit Cloud.
+This project is designed as a **single-file full-stack app**, making it easy to run locally and deploy on Streamlit Cloud.  
+
+> This is **Hackathon 2 Phase 2** project by **Sir Ameen Alam** (GIAIC) and developed by **Mubashir**.
+
+---
+
+## 🎬 Demo
+
+![Focus Pad Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+*Screenshot / GIF showing the UI, adding, editing, completing, and deleting tasks.*
+
+🌐 **Try it live:** [Focus Pad on Streamlit Cloud](https://share.streamlit.io/yourusername/Focus-Pad/main/app.py)
 
 ---
 
@@ -48,8 +63,8 @@ todo_app/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <https://github.com/MubashirKhanYousufZai/Fastapi-Todo-Console-app>
-cd todo_app
+git clone https://github.com/MubashirKhanYousufZai/Focus-Pad.git
+cd Focus-Pad
 ````
 
 ### 2️⃣ Create & activate virtual environment
@@ -82,11 +97,7 @@ pip install streamlit sqlalchemy
 streamlit run app.py
 ```
 
----
-
-## 🌐 Open in Browser
-
-After running, open:
+Open in browser:
 
 ```
 http://localhost:8501
@@ -134,5 +145,4 @@ This app is **Streamlit Cloud ready**:
 Web Developer | Python & Streamlit Enthusiast
 📍 Pakistan
 
----
-
+```
