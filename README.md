@@ -134,4 +134,6 @@ This app is **Streamlit Cloud ready**:
 Web Developer | Python & Streamlit Enthusiast
 📍 Pakistan
 
+---
 ```
+
